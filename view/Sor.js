@@ -1,3 +1,4 @@
+
 export default class Sor{
     #adat ={}
     constructor(adat, szuloElem){
